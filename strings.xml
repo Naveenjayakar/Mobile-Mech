@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mobilemech</string>
+    <string name="map_key" translatable="false">
+         AIzaSyAdYl5sPMCD1GC_A4yZsogPLoQo2lv9jSQ
+    </string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="title_activity_cloc_map_main">Map</string>
+    <string name="title_activity_place_picker1">Map</string>
+</resources>
